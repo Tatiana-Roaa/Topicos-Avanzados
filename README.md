@@ -6,7 +6,7 @@
 - Tatiana Roa Ahumada
 - Juan David Valencia
 
-## Entrega
+## Entrega 6 de Septiembre
 
 | No. | Sesión    | Enunciado      | Solución           |
 |-----|-------------|---------------|--------------------|
