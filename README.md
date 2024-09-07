@@ -1,10 +1,10 @@
 ## Integrantes del equipo
-Yuri Angélica Reina
-Camilo Andrés Vargas
-Paula Alejandra Velasco
-Pavel Mauricio Dussan
-Tatiana Roa
-Juan David Valencia
+- Yuri Angélica Reina
+- Camilo Andrés Vargas
+- Paula Alejandra Velasco
+- Pavel Mauricio Dussan
+- Tatiana Roa
+- Juan David Valencia
 
 ## Entrega
 
