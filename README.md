@@ -8,7 +8,7 @@
 
 ## Entrega
 
-| No. | Activity    | Enunciado      | Solución           |
+| No. | Sesión    | Enunciado      | Solución           |
 |-----|-------------|---------------|--------------------|
 | 1   |  ML monitoring & Data Drift  | [E1 - Data Drift in Used Vehicle Price Prediction](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/exercises/E2-UsedVehiclePricePredictionDrift.ipynb) | [Solución - E1](https://github.com/Tatiana-Roaa/Topicos-Avanzados/blob/main/E1_Data_Drift_in_Used_Vehicle_Price_Prediction.ipynb) |
 | 2   |   Machine Learning as a Service (AIaaS)   |   [E2 - Model Deployment in Used Vehicle Price Prediction](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/exercises/E1-UsedVehiclePricePredictionDeployment.ipynb)            |      [Solución - E2](https://github.com/Tatiana-Roaa/Topicos-Avanzados/blob/main/E2_Model_Deployment_in_used_vehicle_price_prediction..ipynb)              |
