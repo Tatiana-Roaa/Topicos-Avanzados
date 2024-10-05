@@ -17,6 +17,7 @@
 
 ## Proyecto 1
 [P0_BigMonksDetection (VF)](https://github.com/Tatiana-Roaa/Topicos-Avanzados/blob/main/Proyecto%201%20-%20Frailejon%20Detection/P0_BigMonksDetection%20(VF)%20(1).ipynb)
+Verificar el historial [aqui](https://github.com/Tatiana-Roaa/Topicos-Avanzados/blob/9c6dd83a0eb735e8e398d31242fa1e45aee2b080/P0_BigMonksDetection%20(VF).ipynb)
 
 Descargar el PDF [Documento](https://github.com/Tatiana-Roaa/Topicos-Avanzados/blob/main/Proyecto%201%20-%20Frailejon%20Detection/Proyecto%20%231%20-%20Frailejon%20Detection%20-%20T%C3%B3picos%20Avanzados.pdf)
 
