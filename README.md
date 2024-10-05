@@ -22,6 +22,6 @@
 
 ## Proyecto 2
 
-[P1 - Movie Genre Prediction](https://github.com/Tatiana-Roaa/Topicos-Avanzados/blob/main/Proyecto%202%20-%20MovieGenrePrediction/P1_MovieGenrePrediction%20(VF).ipynb)
+[P1 - Movie Genre Prediction](https://github.com/Tatiana-Roaa/Topicos-Avanzados/blob/main/Proyecto%201%20-%20Frailejon%20Detection/P0_BigMonksDetection%20(VF)%20(1).ipynb)
 
 [Documento](https://github.com/Tatiana-Roaa/Topicos-Avanzados/blob/main/Proyecto%202%20-%20MovieGenrePrediction/P1%20-%20MovieGenrePrediction.pdf)
