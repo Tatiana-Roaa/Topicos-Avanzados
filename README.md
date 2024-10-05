@@ -17,9 +17,11 @@
 
 ## Proyecto 1
 [P0_BigMonksDetection (VF)](https://github.com/Tatiana-Roaa/Topicos-Avanzados/blob/main/P0_BigMonksDetection%20(VF).ipynb)
+
 [Documento](https://github.com/Tatiana-Roaa/Topicos-Avanzados/blob/main/Proyecto%20%231%20-%20Frailejon%20Detection%20-%20T%C3%B3picos%20Avanzados.pdf)
 
 ## Proyecto 2
 
 [P1 - Movie Genre Prediction]()
+
 [Documento]()
