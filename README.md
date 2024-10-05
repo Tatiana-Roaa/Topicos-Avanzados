@@ -16,7 +16,7 @@
 | 4   |   Deep Computer Vision   | [E4 - Tranfer Learning with PyTorch](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/exercises/E4-PretrainedModelsPytorch.ipynb)   |      [Solución - E4](https://github.com/Tatiana-Roaa/Topicos-Avanzados/blob/main/E4_PretrainedModelsPytorch_modelo_simple.ipynb)              |
 
 ## Proyecto 1
-[P0_BigMonksDetection (VF)](https://github.com/Tatiana-Roaa/Topicos-Avanzados/blob/main/P0_BigMonksDetection%20(VF).ipynb)
+[P0_BigMonksDetection (VF)]([https://github.com/Tatiana-Roaa/Topicos-Avanzados/blob/main/P0_BigMonksDetection%20(VF).ipynb](https://github.com/Tatiana-Roaa/Topicos-Avanzados/blob/ce02e6b64f46ea2625f49033f979d796170ab1fe/P0_BigMonksDetection%20(VF).ipynb))
 
 [Documento](https://github.com/Tatiana-Roaa/Topicos-Avanzados/blob/main/Proyecto%20%231%20-%20Frailejon%20Detection%20-%20T%C3%B3picos%20Avanzados.pdf)
 
