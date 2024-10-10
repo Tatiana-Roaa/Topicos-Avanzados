@@ -42,7 +42,7 @@ Descargar el PDF [Documento](https://github.com/Tatiana-Roaa/Topicos-Avanzados/b
 | 6   | Deep Learning in NLP (RNN, LSTM, GRU)    | [E7 - RNN, LSTM, GRU](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/exercises/E6-RNN_LSTM_GRU.ipynb)                                           | [Solución - E7](#)   |
 | 7   | Attention, Transformers and BERT         | [E8 - Text Summary](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/exercises/E7-TextSummary.ipynb)                                             | [Solución - E8](#)   |
 | 8   | Attention, Transformers and BERT         | [E9 - Question Answering](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/exercises/E8-QuestionAnswer.ipynb)                                       | [Solución - E9](#)   |
-| 9   | Attention, Transformers and BERT         | [E10 - Open AI]([#](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/exercises/E9-OpenAI.ipynb))                                                 | [Solución - E10](https://github.com/Tatiana-Roaa/Topicos-Avanzados/blob/main/Talleres%20-%20Entrega%202/E10_OpenAI.ipynb)  |
+| 9   | Attention, Transformers and BERT         | [E10 - Open AI](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/exercises/E9-OpenAI.ipynb)                                                 | [Solución - E10](https://github.com/Tatiana-Roaa/Topicos-Avanzados/blob/main/Talleres%20-%20Entrega%202/E10_OpenAI.ipynb)  |
 
 
 
