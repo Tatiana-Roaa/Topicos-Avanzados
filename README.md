@@ -21,6 +21,28 @@ Descargar el PDF [Documento](https://github.com/Tatiana-Roaa/Topicos-Avanzados/b
 
 ## Proyecto 2
 
-[P1 - Movie Genre Prediction](https://github.com/Tatiana-Roaa/Topicos-Avanzados/blob/main/Proyecto%202%20-%20MovieGenrePrediction/P1_MovieGenrePrediction%20(VF).ipynb)
-
+[P1 - Movie Genre Prediction](https://github.com/Tatiana-Roaa/Topicos-Avanzados/blob/main/Proyecto%202%20-%20MovieGenrePrediction/P1_MovieGenrePrediction%20(VF).ipynb) Descargar el pdf
 [Documento](https://github.com/Tatiana-Roaa/Topicos-Avanzados/blob/main/Proyecto%202%20-%20MovieGenrePrediction/P1%20-%20MovieGenrePrediction.pdf)
+
+# Entrega 11 de Octubre
+## Text Representation y NLP con Deep Learning
+
+| No. | Sesión                                                 | Enunciado                                                                 | Solución             |
+|-----|--------------------------------------------------------|---------------------------------------------------------------------------|----------------------|
+| 1   | Space Vector Models                                    | [E2 - Sentiment Analysis](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/exercises/E1-SentimentPrediction.ipynb)                                              | [Solución - E2](#)   |
+| 2   | Distributed Representations                            | [E3 - Song Embedding Visualization]([#](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/exercises/E3-SongEmbeddingsVisualization.ipynb))                                    | [Solución - E3](#)   |
+| 3   | Distributed Representations                  | [E4 - Spam Classification](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/exercises/E4-SpamClassification.ipynb)                                | [Solución - E4](https://github.com/Tatiana-Roaa/Topicos-Avanzados/blob/main/Talleres%20-%20Entrega%202/E4_SpamClassification.ipynb)   |
+
+## NLP with Deep Learning
+
+| No. | Sesión                                   | Enunciado                                                          | Solución             |
+|-----|------------------------------------------|--------------------------------------------------------------------|----------------------|
+| 4   | Deep Learning in NLP (RNN, LSTM, GRU)    | [E5 - Neural Networks in Keras for NLP](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/exercises/E5-NeuralNetworksKerasNLP.ipynb)                         | [Solución - E5](#)   |
+| 5   | Deep Learning in NLP (RNN, LSTM, GRU)    | [E6 - Neural Networks in PyTorch for NLP](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/exercises/E5-NeuralNetworksPyTorchNLP.ipynb)                       | [Solución - E6](#)   |
+| 6   | Deep Learning in NLP (RNN, LSTM, GRU)    | [E7 - RNN, LSTM, GRU](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/exercises/E6-RNN_LSTM_GRU.ipynb)                                           | [Solución - E7](#)   |
+| 7   | Attention, Transformers and BERT         | [E8 - Text Summary](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/exercises/E7-TextSummary.ipynb)                                             | [Solución - E8](#)   |
+| 8   | Attention, Transformers and BERT         | [E9 - Question Answering](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/exercises/E8-QuestionAnswer.ipynb)                                       | [Solución - E9](#)   |
+| 9   | Attention, Transformers and BERT         | [E10 - Open AI]([#](https://github.com/sergiomora03/AdvancedTopicsAnalytics/blob/main/exercises/E9-OpenAI.ipynb))                                                 | [Solución - E10](https://github.com/Tatiana-Roaa/Topicos-Avanzados/blob/main/Talleres%20-%20Entrega%202/E10_OpenAI.ipynb)  |
+
+
+
