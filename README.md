@@ -17,7 +17,7 @@ Descargar el PDF [Documento](https://github.com/Tatiana-Roaa/Topicos-Avanzados/b
 
 ## Proyecto 3
 [P3 - Proyecto final](https://github.com/Tatiana-Roaa/Topicos-Avanzados/tree/main/Proyecto%20Final/Modelos) Descargar el pdf
-[Documento]()
+[Documento](https://github.com/Tatiana-Roaa/Topicos-Avanzados/tree/main/Proyecto%20Final)
 
 
 ## Entrega 6 de Septiembre
